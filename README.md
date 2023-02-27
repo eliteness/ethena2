@@ -1,2 +1,2 @@
-# ethena2
-backup
+# ethena
+# https://eliteness.network/ethena
